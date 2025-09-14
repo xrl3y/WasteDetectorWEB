@@ -30,7 +30,7 @@ pip install tensorflow flask opencv-python numpy pillow scikit-learn matplotlib
 📥 Download / Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WasteDetectorWEB.git
+git clone https://github.com/xrl3y/WasteDetectorWEB.git
 cd WasteDetectorWEB
 ```
 
